@@ -1,0 +1,25 @@
+*{
+	margin:20px;
+}
+body{
+	box-shadow:4px 5px 4px 5px #888888;
+	padding-bottom: 10px;
+}
+
+.all .bor{
+	border-bottom:1px solid #888888;
+	box-shadow:4px 4px 5px;
+}
+
+.all .mme{
+	text-align:center;
+	align-content:center;
+}
+
+span{
+	font-weight:bold;
+}
+
+.pd{
+	/*text-align:justify-all;*/
+}
