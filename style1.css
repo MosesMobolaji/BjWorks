@@ -6,6 +6,12 @@ body{
 	padding-bottom: 10px;
 }
 
+.all .ho{
+	cursor:pointer;
+	border:none;
+	box-shadow:2px 2px 5px lightblue;
+}
+
 .all .bor{
 	border-bottom:1px solid #888888;
 	box-shadow:4px 4px 5px;
