@@ -9,6 +9,8 @@ body{
 .all .ho{
 	cursor:pointer;
 	border:none;
+	padding:10px;
+	font-weight:bold;
 	box-shadow:2px 2px 5px lightblue;
 }
 
